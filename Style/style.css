@@ -71,3 +71,61 @@ nav{
 }
 
 
+/* Why Web Development?? starts */
+.head-sec{
+    font-size: 32px;
+    color: rgb(13, 19, 33);
+    font-weight: 800;
+}
+.wwd_section{
+    padding: 75px 0;
+}
+.wwd_div{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    width: 60%;
+    max-width: 1920;
+    min-width: 320px;
+    margin: 0 auto;
+    background-color: #FAFAFB;
+    padding: 95px 80px;
+    text-align: center;
+}
+.wwd_card{
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgba(255, 0, 0, 0) );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+}
+.card-wwd-2{
+    background-image: linear-gradient(to left, rgb(255, 255, 255), rgba(255, 0, 0, 0) );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+}
+.text-div{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 40%;
+    padding: 20px;
+    gap: 25px;
+}
+.img-div{
+    width: 35%;
+    padding: 20px;
+    max-width: 100%;
+    height: auto;
+}
+.btn-3{
+    padding: 8px 20px;
+    border: solid 2px #0d1321c4;
+    background-color: white;
+    color: #0d1321c4;
+    font-family: "Azeret Mono", monospace;
+    font-weight: 700;
+}
+/* Why Web Development finishes */
