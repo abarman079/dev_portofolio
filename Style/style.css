@@ -183,3 +183,77 @@ a{
     color: #0d1321da;
 }
 /* my current target ends */
+/* my next target style start */
+
+.card-mnt{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 20px;
+
+}
+.card-rjs, .card-njs, .card-mdb {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    width: 85%;
+    border: #0D1321 solid 1px;
+    border-radius: 16px;
+    padding: 35px;
+    text-align: left;
+    margin: 0 auto;
+}
+.img-rnm{
+    width: 100px;
+}
+/* my next target style end */
+
+/* I need support style start */
+.div-ins{
+    border-radius: 16px;
+    padding: 100px 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    color: rgba(255, 255, 255, 0.925);
+    background-image: linear-gradient(#0d1321a8,#0d1321a8), url('../assets/handshake.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.input-ins{
+    border: none;
+    color: #0d132152;
+    font-family: "Azeret Mono", monospace;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 8px 20px;
+    width: 300px;
+}
+.btn-4{
+    border: 1px solid rgba(0, 0, 0, 0.425);
+    background-color: white;
+    color: #0D1321;
+    padding: 8px 20px;
+    border-radius: 5px;
+    font-family: "Azeret Mono", monospace;
+    font-weight: 500;
+}
+/* I need support style ends */
+
+/* footer style start */
+.section-8{
+    background-color: #F7F8F8;
+}
+.footer-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0;
+}
+.icon-div{
+    display: flex;
+    gap: 24px;
+}
+/* footer style ends */
