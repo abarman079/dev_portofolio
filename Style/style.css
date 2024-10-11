@@ -129,3 +129,57 @@ nav{
     font-weight: 700;
 }
 /* Why Web Development finishes */
+
+/* My Inspiration start */
+.ytvideo{
+    border-radius: 16px;
+}
+.yt-bdr{
+    padding: 32px;
+    border-radius: 16px;
+    border: #0d13212d solid 1px;
+}
+.div-mi{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 24px;
+}
+/* My Inspiration ends */
+
+/* my current target start */
+.card-mct{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.card-html{
+    width: 30%;
+    background-color: #ff4b1e0a;
+    border-radius: 16px;
+    padding: 35px;
+    text-align: left;
+    margin-right: 10px
+}
+.card-css{
+    width: 30%;
+    background-color: #004CE80a;
+    border-radius: 16px;
+    padding: 35px;
+    text-align: left;
+    margin-right: 10px
+}
+.card-js{
+    width: 30%;
+    background-color: #f58f0a0a;
+    border-radius: 16px;
+    padding: 35px;
+    text-align: left;
+    margin-right: 10px
+}
+a{
+    color: #0d1321da;
+}
+/* my current target ends */
